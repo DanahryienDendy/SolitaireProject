@@ -1,6 +1,7 @@
 //*********************************************
 // Solitaire Prototype 1 -- GUI Components
-// Version 2 -- Changes to exit button, event handlers, & menu bar made by Jenascia
+// Version 2 -- Changes to exit button, event handlers, & menu bar made by Jenascia -- Pyramid Variant partially completed by Dendy
+//
 //
 // Author: Indy Hinton, Danahryien Dendy,
 // Course: CPT-237-W38 Java Programming II
